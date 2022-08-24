@@ -1,7 +1,7 @@
 # flight-backend
-to see the project hosting in heroku enter this link - https://react-fly-backend.herokuapp.com
+to see the project hosting in heroku enter this link - https://weiss-flight.herokuapp.com/
 
-hi eyal for login to admin go to this Link - https://react-fly-backend.herokuapp.com/admin/
+hi eyal for login to admin go to this Link - https://weiss-flight.herokuapp.com/admin
 
 username - alon123
 password - noam123 
